@@ -1,6 +1,6 @@
 # Real-time Chat App with Deno and Websockets
 
-#### Check [the following link]() to see deployed version on heroku
+#### Check [the following link](https://infinite-cliffs-02464.herokuapp.com/) to see deployed version on heroku
 
 --------------------
 
